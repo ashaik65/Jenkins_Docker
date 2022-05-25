@@ -53,7 +53,9 @@ cat var/jenkins_home/secrets/initialAdminPassword
 ```
 
 
-https://faun.pub/how-to-install-docker-in-jenkins-container-4c49ba40b373
+
+
+For more details : https://faun.pub/how-to-install-docker-in-jenkins-container-4c49ba40b373
 
 
 
